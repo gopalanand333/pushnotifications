@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/gopalanand333/pushnotifications#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fcm-node": "^1.5.2",
+    "node-fetch": "^2.6.0"
   }
 }
