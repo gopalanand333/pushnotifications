@@ -25,6 +25,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "fcm-node": "^1.5.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
